@@ -1,0 +1,9 @@
+<?php
+include('home/countdown.php');
+include('home/intro.php');
+include('home/infos.php');
+include('home/story.php');
+include('home/minigallery.php');
+include('home/numcount.php');
+include('home/caroucom.php');
+include('home/annonce.php');
